@@ -1,4 +1,4 @@
-# timehistory :watch:
+# asteroids of the vortex :watch:
 Enter a broken universe as you race through history, preventing time vortex asteroids from entering Earth before time runs out.
 ## About
 This project is a  multidirectional shooter arcade game. It is based on my love for arcade games, science fiction and history.
